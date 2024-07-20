@@ -4,4 +4,4 @@ tensorflow
 seaborn
 matplotlib
 openpyxl
-
+numpy
